@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Purnomomaster
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python, HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me @Purnomomaster
 
